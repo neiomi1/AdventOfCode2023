@@ -1,0 +1,3 @@
+Read Entries in 80596 microseconds.
+Calculated Part One in 7 microseconds.
+Calculated Part Two in 11 microseconds.
